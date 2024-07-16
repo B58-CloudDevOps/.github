@@ -5,12 +5,12 @@
 ### Batch57 Youtube Videos :
 
 ```
-https://www.youtube.com/playlist?list=PLPWyJYiAyYNvAtUg-JGbHSJEKe7-RzXuQ
+https://www.youtube.com/playlist?list=PLPWyJYiAyYNshjFVM1BJtibjRPh3jM-w0
 ```
 
 ### Miro Board
 ```
-https://miro.com/app/board/uXjVNrub3e4=/?share_link_id=654855158936
+https://miro.com/app/board/uXjVKyioGe0=/?share_link_id=286708196559
 ```
 
 ### AWS Account Creation Procedure 
