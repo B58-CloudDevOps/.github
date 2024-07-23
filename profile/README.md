@@ -18,3 +18,7 @@ https://miro.com/app/board/uXjVKyioGe0=/?share_link_id=286708196559
 ```
 https://gitlab.com/thecloudcareers/opensource/-/blob/master/aws-account-creation/README.md
 ```
+
+### Tech Flowchart 
+
+![](profile/TechFlowChart.jpg)
