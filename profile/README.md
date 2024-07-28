@@ -21,4 +21,4 @@ https://gitlab.com/thecloudcareers/opensource/-/blob/master/aws-account-creation
 
 ### Tech Flowchart 
 
-![](TechFlowChart.jpg)
+![](flowchart.jpg)
